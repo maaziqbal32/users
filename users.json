@@ -1,0 +1,19 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "kminchelle",
+      "email": "kminchelle@yahoo.com",
+      "password": "0lelplR"
+    },
+    {
+      "id": 2,
+      "username": "johndoe",
+      "email": "john@example.com",
+      "password": "password123"
+    }
+  ],
+  "total": 2,
+  "skip": 0,
+  "limit": 2
+}
